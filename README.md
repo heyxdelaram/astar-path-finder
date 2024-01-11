@@ -54,7 +54,7 @@ function A_Star(start, goal, h)
     // Open set is empty but goal was never reached
     return failure
 ```
-from (Wikipedia)[https://en.wikipedia.org/wiki/A*_search_algorithm]
+from [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
 
 ## Idea
 - **Start Node:** Top-left corner
