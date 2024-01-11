@@ -64,9 +64,9 @@ from [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
   - **g**: Actual Distance from Start Node to Spot
   - **f**: h + g
 - When searching a Spot can be added to one of the following lists:
-  - **Explored** `rgb(255, 0, 0)`
-  - **Fringe** `rgb(0, 255, 0)`
-  - **Path** `rgb(0, 0, 255)`
+  - **Explored** `red`
+  - **Fringe** `green`
+  - **Path** `blue`
 
 > For display and visualization I used **p5.js**
 
